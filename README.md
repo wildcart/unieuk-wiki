@@ -1,2 +1,2 @@
 # unieuk-wiki
-'Fork' of UniEuk contributions Wiki for preparing documentation updates
+'Fork' of [UniEuk contributions Wiki](https://github.com/UniEuk/contributions) for preparing documentation updates
